@@ -1,9 +1,0 @@
-MNI Transform File
-%Wed Sep 25 01:32:31 2019>>> minctracc -clobber -lsq12 tmp_length.mnc ../image.mnc tmp_tracc.xfm
-%(mni_autoreg 0.99.70)
-
-Transform_Type = Linear;
-Linear_Transform =
- 0.95105651640608 0 -0.30901699403354 0.213675916194916
- 0 1 0 -3.62661361694336
- 0.30901699403354 0 0.95105651640608 -6.3883695602417;
